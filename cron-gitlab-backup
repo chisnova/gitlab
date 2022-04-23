@@ -1,0 +1,1 @@
+0 5 7 * * /opt/gitlab/bin/gitlab-backup create CRON=1
